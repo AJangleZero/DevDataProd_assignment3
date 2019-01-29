@@ -1,0 +1,12 @@
+name: project_shiny_DDACoursera
+title: project_shiny_DDACoursera
+username:
+account: ajanglezero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 673355
+bundleId: 1843679
+url: https://ajanglezero.shinyapps.io/project_shiny_DDACoursera/
+when: 1548772262.8595
+asMultiple: FALSE
+asStatic: FALSE
